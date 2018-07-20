@@ -15,7 +15,7 @@ public class DiscordBot
         public static void main(String[] args)
         {
             UpdateActivity botUpdateActivity = null;
-            String token = "NDUxODgzNzA4NTkzNDcxNDg4.DfIRFA.G-k0-Oa7DXAV2fOYAbBYikrBlJc";
+            String token = "DISCORDTOKEN";
 
             File file = new File(fileName);
             ExecutorService backupExecutor = new ScheduledThreadPoolExecutor(1);
